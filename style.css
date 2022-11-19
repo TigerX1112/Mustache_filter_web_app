@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+} 
+h1{
+    font-size: 50px !important;
+}
+b{
+    font-size: 30px;
+}
+canvas{
+    border: solid orange 2px;
+}
+button{
+    font-size: 25px  !important;
+}
