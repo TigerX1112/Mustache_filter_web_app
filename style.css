@@ -12,5 +12,6 @@ h3
   font-size: 25px !important;
 }
 canvas {
+  margin-top: 150px;
   border:2px dashed black;
 }
